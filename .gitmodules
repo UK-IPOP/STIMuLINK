@@ -1,0 +1,12 @@
+[submodule "stimulink-analysis"]
+	path = stimulink-analysis
+	url = https://github.com/UK-IPOP/stimulink-analysis.git
+[submodule "stimulink-omop"]
+	path = stimulink-omop
+	url = https://github.com/UK-IPOP/stimulink-omop.git
+[submodule "stimulant-search"]
+	path = stimulant-search
+	url = https://github.com/UK-IPOP/stimulant-search.git
+[submodule "cabinet"]
+	path = cabinet
+	url = https://github.com/UK-IPOP/cabinet.git
