@@ -1,2 +1,3 @@
 # STIMuLINK
-Meta repository for work related to STIMuLINK grant
+
+Meta repository for work related to or produced by STIMuLINK grant
