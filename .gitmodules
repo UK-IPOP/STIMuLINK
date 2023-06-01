@@ -13,3 +13,6 @@
 [submodule "stimulink-dashboard"]
 	path = stimulink-dashboard
 	url = https://github.com/UK-IPOP/stimulink-dashboard.git
+[submodule "note-modeling"]
+	path = note-modeling
+	url = https://github.com/UK-IPOP/note-modeling.git
