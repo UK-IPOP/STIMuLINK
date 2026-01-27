@@ -1,0 +1,3 @@
+[submodule "stimulant-search"]
+	path = stimulant-search
+	url = https://github.com/UK-IPOP/stimulant-search.git
